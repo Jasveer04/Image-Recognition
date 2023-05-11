@@ -1,0 +1,20 @@
+body{
+    color: white;
+    background-image: linear-gradient(darkblue, blue)
+}
+
+.heading{
+    font-size: 24px;
+    font-family: cursive;
+    font-weight: bold;
+    border-radius: 140px;
+}
+
+#camera{
+    height: 300px;
+    width: 350px;
+}
+
+#result_object_name{
+
+}
